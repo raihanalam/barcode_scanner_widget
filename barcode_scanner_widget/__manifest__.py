@@ -24,5 +24,5 @@
             'barcode_scanner_widget/static/src/js/**/*',
         ],
     },
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
 }
