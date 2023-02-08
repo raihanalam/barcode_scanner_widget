@@ -24,5 +24,8 @@
             'barcode_scanner_widget/static/src/js/**/*',
         ],
     },
+    # 'images': ['images/main_1.png', 'images/main_2.png'],
     'license': 'OPL-1',
+    'price': 20.0,
+    'currency': 'USD',
 }
