@@ -19,6 +19,6 @@ odoo.define('uni_pos.FieldChar', function (require) {
         },
     });
 
-    registry.add('enter_field', FieldCharCustom);
+    registry.add('scanner_field', FieldCharCustom);
 
 });
